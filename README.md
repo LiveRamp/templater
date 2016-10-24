@@ -10,14 +10,18 @@ the template.
 Now you can drive templates that use inline conditionals, loops, format strings
 from the convenience of any script that allows you to fork out to templater.
 
-#### Building
+*This tool is an open source project of [Arbor Technologies](https://arbor.io),
+based in New York City. Want to hack on cool Go projects at adtech scale?
+[Come work for us!](https://arbor.io/careers/)*
+
+### Building
 
 ```
 $ go get -u github.com/pippio/templater
 $ go install github.com/pippio/templater
 ```
 
-#### Usage
+### Usage
 ```
 Usage of templater:
   -data string
@@ -26,7 +30,7 @@ Usage of templater:
         Template to render
 ```
 
-#### Example
+### Example
 
 Example template input file:
 
@@ -56,7 +60,7 @@ One student is named Larry.
 One student is named Moe.
 ```
 
-#### What's Next
+### What's Next
 
 * Load multiple templates into the context so you can include other templates
   from the root template.
