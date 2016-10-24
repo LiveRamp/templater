@@ -17,8 +17,8 @@ based in New York City. Want to hack on cool Go projects at adtech scale?
 ### Building
 
 ```
-$ go get -u github.com/pippio/templater
-$ go install github.com/pippio/templater
+$ go get -u github.com/arbortech/templater
+$ go install github.com/arbortech/templater
 ```
 
 ### Usage
