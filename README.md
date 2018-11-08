@@ -10,15 +10,15 @@ the template.
 Now you can drive templates that use inline conditionals, loops, format strings
 from the convenience of any script that allows you to fork out to templater.
 
-*This tool is an open source project of [Arbor Technologies](https://arbor.io),
-based in New York City. Want to hack on cool Go projects at adtech scale?
-[Come work for us!](https://arbor.io/careers/)*
+*This tool is an open source project of [LiveRamp](https://liveramp.com).
+Want to hack on cool Go projects at adtech scale?
+[Come work for us!](https://liveramp.com/careers/engineers/)*
 
 ### Building
 
 ```
-$ go get -u github.com/arbortech/templater
-$ go install github.com/arbortech/templater
+$ go get -u github.com/LiveRamp/templater
+$ go install github.com/LiveRamp/templater
 ```
 
 ### Usage
